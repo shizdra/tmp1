@@ -1,9 +1,8 @@
-123241241
-
-bash
-
-
-
+#123241241
+#bash
+#
+#
+#
 -- ===========================================================================
 -- Description: Ethernet-Like MIB              
 -- Reference:   Module(EtherLike-MIB) Extracted from RFC3635.TXT,from 39489 to 134546.Obsoletes: 2665
